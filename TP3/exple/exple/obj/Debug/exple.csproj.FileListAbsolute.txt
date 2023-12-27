@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.Form1.resources
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\bin\Debug\exple.exe.config
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\bin\Debug\exple.exe
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\bin\Debug\exple.pdb
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.exe
+C:\Users\Lenovo\Desktop\C#\TP3\exple\exple\obj\Debug\exple.pdb
